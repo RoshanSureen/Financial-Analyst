@@ -1,3 +1,5 @@
 streamit==1.31.0
 openai==1.11.0
 python-dotenv==1.0.1
+jupyter==1.0.0
+ipykernel==6.29.0
